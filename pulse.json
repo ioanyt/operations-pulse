@@ -1,0 +1,5 @@
+{
+  "message": "Pulse data will be published here automatically every 6 hours",
+  "status": "initializing",
+  "next_update": "Awaiting first automated push from CTO workspace"
+}
