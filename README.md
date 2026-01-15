@@ -219,6 +219,29 @@ curl https://raw.githubusercontent.com/ioanyt/operations-pulse/main/data/2026/Q1
 
 ---
 
+## Our Development Approach
+
+IOanyT operates as an AI-augmented consultancy. We combine senior engineering judgment with AI acceleration to deliver faster without cutting corners.
+
+**Humans own:**
+- Architecture and system design decisions
+- Security reviews and compliance
+- Client communication and requirements
+- Code review and quality gates
+- Strategic and business decisions
+
+**AI accelerates:**
+- Implementation of well-defined patterns
+- Documentation and reporting
+- Routine code generation
+- Data transformation and formatting
+
+This isn't about replacing expertise - it's about amplifying it. You'll see `@claude` in our contributors list because we believe in transparency about how we work.
+
+**The result:** Faster delivery, consistent quality, and full accountability from our human team.
+
+---
+
 ## Why We Do This
 
 **Transparency builds trust.** We believe in running operations with the same visibility and accountability we provide to our clients.
@@ -231,6 +254,7 @@ When we say "we run our operations the same way we run yours," we mean it. This 
 - **Real data**: No sanitization of bad weeks - we show reality
 - **Recovery stories**: When issues happen, we show how fast we respond
 - **Historical accountability**: Full history preserved for review
+- **Honest about AI**: We show how we use AI tools - no hiding behind the curtain
 
 ---
 
