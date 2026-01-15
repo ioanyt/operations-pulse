@@ -1,0 +1,46 @@
+{
+  "last_updated": "2026-01-15T11:30:00Z",
+  "retention_days": 30,
+  "current_quarter": "2026-Q1",
+  "current_year": 2026,
+  "summary": {
+    "total_weeks_tracked": 1,
+    "healthy_weeks": 1,
+    "attention_weeks": 0,
+    "critical_weeks": 0,
+    "uptime_percentage": 100
+  },
+  "entries": [
+    {
+      "date": "2026-01-15",
+      "week": "W03",
+      "quarter": "Q1",
+      "year": 2026,
+      "status": "healthy",
+      "emoji": "🟢",
+      "health_score": 100,
+      "projects_on_track": 2,
+      "projects_tracked": 2,
+      "deployments": 4,
+      "linkedin_posted": true
+    },
+    {
+      "date": "2026-01-14",
+      "week": "W03",
+      "quarter": "Q1",
+      "year": 2026,
+      "status": "healthy",
+      "emoji": "🟢",
+      "health_score": 100,
+      "projects_on_track": 2,
+      "projects_tracked": 2,
+      "deployments": 3,
+      "linkedin_posted": true
+    }
+  ],
+  "data_files": {
+    "2026-Q1": [
+      "data/2026/Q1/W03.json"
+    ]
+  }
+}
