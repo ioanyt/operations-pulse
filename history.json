@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-15T11:30:00Z",
+  "last_updated": "2026-01-15T07:01:02Z",
   "retention_days": 30,
   "current_quarter": "2026-Q1",
   "current_year": 2026,
   "summary": {
-    "total_weeks_tracked": 1,
-    "healthy_weeks": 1,
+    "total_weeks_tracked": 2,
+    "healthy_weeks": 2,
     "attention_weeks": 0,
     "critical_weeks": 0,
     "uptime_percentage": 100
