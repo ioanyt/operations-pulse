@@ -144,7 +144,8 @@
   ],
   "data_files": {
     "2026-Q1": [
-      "data/2026/Q1/W03.json"
+      "data/2026/Q1/W03.json",
+      "data/2026/Q1/W04.json"
     ]
   }
 }
