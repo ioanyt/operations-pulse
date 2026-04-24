@@ -7,7 +7,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-24T02:42:49Z",
+  "generated_at": "2026-04-24T06:11:03Z",
   "status": {
     "overall": "healthy",
     "emoji": "🟢",
@@ -20,12 +20,12 @@
     "projects_on_track": 2,
     "projects_at_risk": 0,
     "issues_resolved": 0,
-    "deployments": 7
+    "deployments": 8
   },
   "departments_reporting": 3,
   "linkedin": {
     "posted": false,
     "posted_at": null,
-    "content": "IOanyT Operations Pulse | Week 17, 2026\n\n📊 Organization Health\n🟢 All systems healthy | ⚡ 0 escalations\n\n🚀 Client Delivery\n✅ 2 projects on track\n🔧 Issues: Clear\n📦 7 deployments completed\n\nWe run our operations the same way we run yours -\nwith visibility and accountability.\n\n#DevOps #OperationalExcellence #ServiceDelivery #Transparency\n"
+    "content": "IOanyT Operations Pulse | Week 17, 2026\n\n📊 Organization Health\n🟢 All systems healthy | ⚡ 0 escalations\n\n🚀 Client Delivery\n✅ 2 projects on track\n🔧 Issues: Clear\n📦 8 deployments completed\n\nWe run our operations the same way we run yours -\nwith visibility and accountability.\n\n#DevOps #OperationalExcellence #ServiceDelivery #Transparency\n"
   }
 }
