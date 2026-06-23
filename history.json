@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:48:23Z",
+  "last_updated": "2026-06-23T03:37:20Z",
   "retention_days": 30,
   "current_quarter": "2026-Q2",
   "current_year": 2026,
@@ -11,6 +11,19 @@
     "uptime_percentage": 100
   },
   "entries": [
+    {
+      "date": "2026-06-23",
+      "week": "W26",
+      "quarter": "Q2",
+      "year": 2026,
+      "status": "healthy",
+      "emoji": "🟢",
+      "health_score": 100,
+      "projects_on_track": 2,
+      "projects_tracked": 2,
+      "deployments": 5,
+      "linkedin_posted": false
+    },
     {
       "date": "2026-06-22",
       "week": "W26",
@@ -386,19 +399,6 @@
       "projects_on_track": 2,
       "projects_tracked": 2,
       "deployments": 6,
-      "linkedin_posted": false
-    },
-    {
-      "date": "2026-05-24",
-      "week": "W21",
-      "quarter": "Q2",
-      "year": 2026,
-      "status": "healthy",
-      "emoji": "🟢",
-      "health_score": 100,
-      "projects_on_track": 2,
-      "projects_tracked": 2,
-      "deployments": 7,
       "linkedin_posted": false
     }
   ],
