@@ -1,0 +1,31 @@
+{
+  "week": "W26",
+  "week_number": 26,
+  "year": 2026,
+  "quarter": "Q2",
+  "period": {
+    "start": "2026-06-22",
+    "end": "2026-06-28"
+  },
+  "generated_at": "2026-06-26T03:44:55Z",
+  "status": {
+    "overall": "healthy",
+    "emoji": "🟢",
+    "health_score": 100.0,
+    "escalations": 0,
+    "compliance": "on_target"
+  },
+  "delivery": {
+    "projects_tracked": 2,
+    "projects_on_track": 2,
+    "projects_at_risk": 0,
+    "issues_resolved": 0,
+    "deployments": 4
+  },
+  "departments_reporting": 3,
+  "linkedin": {
+    "posted": false,
+    "posted_at": null,
+    "content": "IOanyT Operations Pulse | Week 26, 2026\n\n📊 Organization Health\n🟢 All systems healthy | ⚡ 0 escalations\n\n🚀 Client Delivery\n✅ 2 projects on track\n🔧 Issues: Clear\n📦 4 deployments completed\n\nWe run our operations the same way we run yours -\nwith visibility and accountability.\n\n#DevOps #OperationalExcellence #ServiceDelivery #Transparency\n"
+  }
+}
