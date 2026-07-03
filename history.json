@@ -430,6 +430,9 @@
       "data/2026/Q2/W24.json",
       "data/2026/Q2/W25.json",
       "data/2026/Q2/W26.json"
+    ],
+    "2026-Q3": [
+      "data/2026/Q3/W27.json"
     ]
   }
 }
